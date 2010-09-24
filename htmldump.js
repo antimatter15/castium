@@ -75,3 +75,5 @@ function getHTML(win, el){
 }
 
 document.documentElement.innerHTML = getHTML(window, document.body);
+
+42
